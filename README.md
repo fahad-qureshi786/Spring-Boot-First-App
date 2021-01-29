@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/fahad-qureshi786/Spring-Boot-First-App)
 
-To become rockstar in Development, these is spring boot that will help you to become a successfull E. Application Developer from start to end There are some best advance topics listed below.
+To become rockstar in Development, there is spring boot that will help you to become a successfull E. Application Developer from start to end There are some best advance topics listed below.
 
   - Spring Security
   - Spring Cloud
